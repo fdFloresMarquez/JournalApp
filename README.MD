@@ -1,0 +1,3 @@
+# JournalApp
+
+Readme en construcción 🏗️🏗️🏗️
