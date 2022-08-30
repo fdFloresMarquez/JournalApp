@@ -5,15 +5,15 @@ export const AuthLayout = ({ children, title = '' }) => {
 
         <Grid
             container
-            spacing={0}
-            direction="column"
-            alignItems="center"
-            justifyContent="center"
+            spacing={0}            
             sx={{ minHeight: '100vh', backgroundColor: 'primary.main', padding: 4 }}
         >
 
             <Grid 
-                item
+                container
+                direction="column"
+                justifyContent="center"
+                alignItems="center"
                 className='box-shadow animate__animated animate__fadeIn animate__faster'   
                 xs={3}
                 sx={{
