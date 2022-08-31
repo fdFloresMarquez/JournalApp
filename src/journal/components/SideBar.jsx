@@ -1,6 +1,5 @@
 import { useSelector } from 'react-redux'
 
-import { TurnedInNot } from '@mui/icons-material'
 import { Box, Drawer, Grid, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Toolbar, Typography } from '@mui/material'
 import { SideBarItem } from './SideBarItem';
 
