@@ -8,17 +8,17 @@ Aplicación de notas con conexión a base de datos en firestore, y se puede subi
 
 ## Cosas que aprendí:
 
--Material UI
--Configuración de temas personalizados
--Redux
--Redux Toolkit
--Store
--Firebase
--FireStore
--CRUD hacia Firestore
--Pruebas con reducers
--Variables de entorno de desarrollo, test y producción
--Pruebas en tareas asíncronas
+- Material UI
+- Configuración de temas personalizados
+- Redux
+- Redux Toolkit
+- Store
+- Firebase
+- FireStore
+- CRUD hacia Firestore
+- Pruebas con reducers
+- Variables de entorno de desarrollo, test y producción
+- Pruebas en tareas asíncronas
 
 ## Correr app localmente:
 
