@@ -1,9 +1,9 @@
 
 export const getEnvironments = () => {
 
-    import.meta.env;
+    const envData = import.meta.env ?? process.env.SOME_ENV_VARIABLE ;
 
     return{
-        ...import.meta.env
+        ...envData
     }
 }
