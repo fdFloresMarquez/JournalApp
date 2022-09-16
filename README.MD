@@ -4,6 +4,8 @@ Live Demo: https://journal-app-ff.netlify.app/
 
 ![plot](./public/assets/screen.jpg)
 
+Login Credentials: email: tim@mail.com password: 123456
+
 Aplicación de notas con conexión a base de datos en firestore, y se puede subir archivos a cloudinary.
 
 ## Cosas que aprendí:
