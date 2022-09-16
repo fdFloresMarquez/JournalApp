@@ -2,7 +2,7 @@
 
 Live Demo: https://journal-app-ff.netlify.app/
 
-![plot](./public/assets/screen.png)
+![plot](./public/assets/screen.jpg)
 
 Aplicación de notas con conexión a base de datos en firestore, y se puede subir archivos a cloudinary.
 
